@@ -4,7 +4,7 @@ FROM mysql:latest
 ENV MYSQL_DATABASE
 
 # give root user password
-ENV MYSQL_ROOT_PASSWORD munni999
+ENV MYSQL_ROOT_PASSWORD xxxxx
 
 # create new user
 ENV MYSQL_USER pucsd
