@@ -1,7 +1,7 @@
 # Derived from official mysql image (our base image)
 FROM mysql:latest
 # Add a database
-ENV MYSQL_DATABASE
+ENV MYSQL_DATABASE pucsdStudents
 
 # give root user password
 ENV MYSQL_ROOT_PASSWORD xxxxx
